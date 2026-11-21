@@ -32,6 +32,7 @@
 
 工程实践、架构与治理文档发在 [blog.omaps.cn](https://blog.omaps.cn)：
 
+- [MCP 工具总线：协议机制、与 REST 的分工和落地边界](https://blog.omaps.cn/post/mcp-tool-bus/)（2026-11-21）
 - [数字员工生产落地案例：节点、账号与退回机制](https://blog.omaps.cn/post/digital-worker-as-process-node/)（2026-11-20）
 - [从文字到语音：办公信息的载体升级与 AI 的全景理解](https://blog.omaps.cn/post/voice-office-carrier-upgrade/)（2026-11-20）
 - [归因完成不等于解决：AI 归因、组织上下文与低成本绕行](https://blog.omaps.cn/post/attribution-is-not-resolution/)（2026-11-20）
@@ -87,6 +88,7 @@ Xomaps Technology is an enterprise AI landing service provider built on self-dev
 
 Engineering practice, architecture and governance notes live at [blog.omaps.cn](https://blog.omaps.cn):
 
+- [The MCP Tool Bus: My Questions, Trade-offs, and Boundaries](https://blog.omaps.cn/en/post/mcp-tool-bus/) (2026-11-21)
 - [A Digital Worker in Production: Nodes, Accounts, and Rollback Mechanisms](https://blog.omaps.cn/en/post/digital-worker-as-process-node/) (2026-11-20)
 - [From Text to Voice: The Carrier Upgrade of Office Information and AI's Full-Picture Understanding](https://blog.omaps.cn/en/post/voice-office-carrier-upgrade/) (2026-11-20)
 - [Attribution Is Not Resolution: AI Diagnosis, Organizational Context, and a Low-Cost Bypass](https://blog.omaps.cn/en/post/attribution-is-not-resolution/) (2026-11-20)
