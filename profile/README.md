@@ -1,6 +1,6 @@
 # 信朴科技（Xomaps）
 
-[中文](#信朴科技omaps) · [English](#english) · [官网](https://www.xomaps.com) · [技术博客](https://blog.omaps.cn)
+[中文](#信朴科技omaps) · [English](#english) · [官网](https://www.xomaps.com) · [技术博客](https://blog.xomaps.com)
 
 **以自研底座为支撑的企业 AI 落地服务商**
 
@@ -30,19 +30,19 @@
 
 ## 技术博客
 
-工程实践、架构与治理文档发在 [blog.omaps.cn](https://blog.omaps.cn)：
+工程实践、架构与治理文档发在 [blog.xomaps.com](https://blog.xomaps.com)：
 
-- [MCP 工具总线：协议机制、与 REST 的分工和落地边界](https://blog.omaps.cn/post/mcp-tool-bus/)（2026-11-21）
-- [数字员工生产落地案例：节点、账号与退回机制](https://blog.omaps.cn/post/digital-worker-as-process-node/)（2026-11-20）
-- [从文字到语音：办公信息的载体升级与 AI 的全景理解](https://blog.omaps.cn/post/voice-office-carrier-upgrade/)（2026-11-20）
-- [归因完成不等于解决：AI 归因、组织上下文与低成本绕行](https://blog.omaps.cn/post/attribution-is-not-resolution/)（2026-11-20）
-- [一个 AI 项目的困局，与 AI 无关：并发、排队与错位的三个月](https://blog.omaps.cn/post/ai-app-project-retrospective/)（2026-11-15）
-- [AI 不可替代的：面向客户的主营业务流程与落地引擎](https://blog.omaps.cn/post/customer-centric-workflow-engine/)（2026-11-15）
-- [IT托管服务的升级：AI时代中小企业IT的新选择](https://blog.omaps.cn/post/shared-it-ai-era/)（2026-11-14）
-- [2027 年企业 IT 部门的方向：上下文厚度与研发范围重构](https://blog.omaps.cn/post/2027-ai-directions/)（2026-11-13）
-- [企业 AI 落地：企业上下文、内部 FDE 与场景闸门](https://blog.omaps.cn/post/enterprise-ai-landing/)（2026-11-12）
-- [AI 原生研发：产物链、门禁与度量](https://blog.omaps.cn/post/ai-native-sdlc-gates/)（2026-11-12）
-- [API 业务访问与完整性风险清单](https://blog.omaps.cn/post/api-access-integrity-risks/)（2026-11-12）
+- [MCP 工具总线：协议机制、与 REST 的分工和落地边界](https://blog.xomaps.com/post/mcp-tool-bus/)（2026-11-21）
+- [数字员工生产落地案例：节点、账号与退回机制](https://blog.xomaps.com/post/digital-worker-as-process-node/)（2026-11-20）
+- [从文字到语音：办公信息的载体升级与 AI 的全景理解](https://blog.xomaps.com/post/voice-office-carrier-upgrade/)（2026-11-20）
+- [归因完成不等于解决：AI 归因、组织上下文与低成本绕行](https://blog.xomaps.com/post/attribution-is-not-resolution/)（2026-11-20）
+- [一个 AI 项目的困局，与 AI 无关：并发、排队与错位的三个月](https://blog.xomaps.com/post/ai-app-project-retrospective/)（2026-11-15）
+- [AI 不可替代的：面向客户的主营业务流程与落地引擎](https://blog.xomaps.com/post/customer-centric-workflow-engine/)（2026-11-15）
+- [IT托管服务的升级：AI时代中小企业IT的新选择](https://blog.xomaps.com/post/shared-it-ai-era/)（2026-11-14）
+- [2027 年企业 IT 部门的方向：上下文厚度与研发范围重构](https://blog.xomaps.com/post/2027-ai-directions/)（2026-11-13）
+- [企业 AI 落地：企业上下文、内部 FDE 与场景闸门](https://blog.xomaps.com/post/enterprise-ai-landing/)（2026-11-12）
+- [AI 原生研发：产物链、门禁与度量](https://blog.xomaps.com/post/ai-native-sdlc-gates/)（2026-11-12）
+- [API 业务访问与完整性风险清单](https://blog.xomaps.com/post/api-access-integrity-risks/)（2026-11-12）
 
 ## 联系我们
 
@@ -56,7 +56,7 @@
 
 # Xomaps Technology
 
-[中文](#信朴科技omaps) · **English** · [Website](https://www.xomaps.com) · [Tech Blog](https://blog.omaps.cn)
+[中文](#信朴科技omaps) · **English** · [Website](https://www.xomaps.com) · [Tech Blog](https://blog.xomaps.com)
 
 **An enterprise AI landing service provider built on self-developed foundations**
 
@@ -86,19 +86,19 @@ Xomaps Technology is an enterprise AI landing service provider built on self-dev
 
 ## Tech Blog
 
-Engineering practice, architecture and governance notes live at [blog.omaps.cn](https://blog.omaps.cn):
+Engineering practice, architecture and governance notes live at [blog.xomaps.com](https://blog.xomaps.com):
 
-- [The MCP Tool Bus: My Questions, Trade-offs, and Boundaries](https://blog.omaps.cn/en/post/mcp-tool-bus/) (2026-11-21)
-- [A Digital Worker in Production: Nodes, Accounts, and Rollback Mechanisms](https://blog.omaps.cn/en/post/digital-worker-as-process-node/) (2026-11-20)
-- [From Text to Voice: The Carrier Upgrade of Office Information and AI's Full-Picture Understanding](https://blog.omaps.cn/en/post/voice-office-carrier-upgrade/) (2026-11-20)
-- [Attribution Is Not Resolution: AI Diagnosis, Organizational Context, and a Low-Cost Bypass](https://blog.omaps.cn/en/post/attribution-is-not-resolution/) (2026-11-20)
-- [The Trouble with This AI Project Had Nothing to Do with AI: Concurrency, Queuing, and Three Months of Misalignment](https://blog.omaps.cn/en/post/ai-app-project-retrospective/) (2026-11-15)
-- [What AI Cannot Replace: Customer-Facing Core Business Workflows and the Delivery Engine](https://blog.omaps.cn/en/post/customer-centric-workflow-engine/) (2026-11-15)
-- [The Upgrade of Managed IT Services: A New Option for SMB IT in the AI Era](https://blog.omaps.cn/en/post/shared-it-ai-era/) (2026-11-14)
-- [2027 Directions for Enterprise IT Teams: Context Thickness and Rethinking the Scope of Engineering](https://blog.omaps.cn/en/post/2027-ai-directions/) (2026-11-13)
-- [Enterprise AI Adoption: Organizational Context, Internal FDEs, and Scenario Gates](https://blog.omaps.cn/en/post/enterprise-ai-landing/) (2026-11-12)
-- [AI-Native Engineering: Artifact Chains, Gates, and Metrics](https://blog.omaps.cn/en/post/ai-native-sdlc-gates/) (2026-11-12)
-- [API Access and Integrity Risk Catalog](https://blog.omaps.cn/en/post/api-access-integrity-risks/) (2026-11-12)
+- [The MCP Tool Bus: My Questions, Trade-offs, and Boundaries](https://blog.xomaps.com/en/post/mcp-tool-bus/) (2026-11-21)
+- [A Digital Worker in Production: Nodes, Accounts, and Rollback Mechanisms](https://blog.xomaps.com/en/post/digital-worker-as-process-node/) (2026-11-20)
+- [From Text to Voice: The Carrier Upgrade of Office Information and AI's Full-Picture Understanding](https://blog.xomaps.com/en/post/voice-office-carrier-upgrade/) (2026-11-20)
+- [Attribution Is Not Resolution: AI Diagnosis, Organizational Context, and a Low-Cost Bypass](https://blog.xomaps.com/en/post/attribution-is-not-resolution/) (2026-11-20)
+- [The Trouble with This AI Project Had Nothing to Do with AI: Concurrency, Queuing, and Three Months of Misalignment](https://blog.xomaps.com/en/post/ai-app-project-retrospective/) (2026-11-15)
+- [What AI Cannot Replace: Customer-Facing Core Business Workflows and the Delivery Engine](https://blog.xomaps.com/en/post/customer-centric-workflow-engine/) (2026-11-15)
+- [The Upgrade of Managed IT Services: A New Option for SMB IT in the AI Era](https://blog.xomaps.com/en/post/shared-it-ai-era/) (2026-11-14)
+- [2027 Directions for Enterprise IT Teams: Context Thickness and Rethinking the Scope of Engineering](https://blog.xomaps.com/en/post/2027-ai-directions/) (2026-11-13)
+- [Enterprise AI Adoption: Organizational Context, Internal FDEs, and Scenario Gates](https://blog.xomaps.com/en/post/enterprise-ai-landing/) (2026-11-12)
+- [AI-Native Engineering: Artifact Chains, Gates, and Metrics](https://blog.xomaps.com/en/post/ai-native-sdlc-gates/) (2026-11-12)
+- [API Access and Integrity Risk Catalog](https://blog.xomaps.com/en/post/api-access-integrity-risks/) (2026-11-12)
 
 ## Contact
 
